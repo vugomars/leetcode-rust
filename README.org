@@ -1,9 +1,21 @@
-#+TITLE: Leetcode Solutio with Rust Languages
+#+TITLE: Leetcode Solution
 #+AUTHOR: Dang Quang Vu <vugomars@gmail.com>
 
 * Introduction
 - There are new leetcode questions every week. I'll keep updateing for full summary and better solutions.
 - Hope you enjoy the hourney of learning data structures and algorithms
--
+- Some problems i will make a video to explain its problems solving on my youtube channel
+ [[https://www.youtube.com/@blockofvu][blockofvu]]
+
+* Possible Algorithms & Techniques
+
+|      n | Complexity | Possible Algorithms & Techniques |
+|--------+------------+----------------------------------|
+| 10^18+ | O(1)       | Math                             |
+|  10^18 |            |                                  |
 
 * Solutions
+
+| # | Title | Solution | Time | Space | Difficulty | Note |
+|---+-------+----------+------+-------+------------+------|
+| 1 |       |          |      |       |            |      |
