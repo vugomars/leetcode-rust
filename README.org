@@ -1,0 +1,9 @@
+#+TITLE: Leetcode Solutio with Rust Languages
+#+AUTHOR: Dang Quang Vu <vugomars@gmail.com>
+
+* Introduction
+- There are new leetcode questions every week. I'll keep updateing for full summary and better solutions.
+- Hope you enjoy the hourney of learning data structures and algorithms
+-
+
+* Solutions
