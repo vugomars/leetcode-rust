@@ -36,5 +36,5 @@
 ** Solutions
 
 |    # | Title                                                   | Solution | Time | Space | Difficulty | Note |
-| 1480 | Running Sum of 1d Array                                 | Rust     | O(n) | O(1)  | easy       |      |
-| 1491 | Average Salary Excluding the Minimum and Maximum Salary | Rust     | O(n) | O(1) | easy       |      |
+| 1480 | [[./rust/src/easy/p1480.rs][Running Sum of 1d Array]]                                 | Rust     | O(n) | O(1)  | easy       |      |
+| 1491 | [[./rust/src/easy/p1491.rs][Average Salary Excluding the Minimum and Maximum Salary]] | Rust     | O(n) | O(1) | easy       |      |
