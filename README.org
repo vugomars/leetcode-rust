@@ -17,13 +17,24 @@
 
 ** Possible Algorithms & Techniques
 
-|      n | Complexity | Possible Algorithms & Techniques |
-|--------+------------+----------------------------------|
-| 10^18+ | O(1)       | Math                             |
-|  10^18 |            |                                  |
+|      n | Complexity | Possible Algorithms & Techniques                                                                       |
+|--------+------------+--------------------------------------------------------------------------------------------------------|
+| 10^18+ | O(1)       | Math                                                                                                   |
+|  10^18 | O(logn)    | Binary & Ternary Search / Matrix Power / Cycle Tricks / Big Simulation Steps / Values Reranking / Math |
+|  10^16 | O(n^1/2)   | Math                                                                                                   |
+|   10^8 | O(n)       | Greedy / Ad-hoc / DP                                                                                   |
+| 4x10^7 | O(nlogn)   | Linear # Calls to Binary & Rernary Search / Pre-processing & Querying / Divide and Conquer             |
+|   10^4 | O(n^2)     | Ad-hoc / DP / Greedy / Divide & Conquer / Branch & Bound                                               |
+|    500 | O(n^3)     | Ad-hoc / DP / Greedy / Divide & Conquer / Branch & Bound                                               |
+|     90 | O(n^4)     | Ad-hoc / DP / Greedy / Divide & Conquer / Branch & Bound                                               |
+|     50 | O(n^5)     | Branch & Bound                                                                                         |
+|     40 | O(nx2^n)   | Meet in the Middle                                                                                     |
+|     20 | O(nx2^n)   | Backtracking / Generating 2^n Subsets / Bitmask Technique                                              |
+|     11 | O(n!)      | Factorial / Permutation / Combination Algorithm                                                      |
+|--------+------------+--------------------------------------------------------------------------------------------------------|
 
 ** Solutions
 
-| # | Title | Solution | Time | Space | Difficulty | Note |
-|---+-------+----------+------+-------+------------+------|
-| 1 |       |          |      |       |            |      |
+|    # | Title                                                   | Solution | Time | Space | Difficulty | Note |
+| 1480 | Running Sum of 1d Array                                 | Rust     | O(n) | O(1)  | easy       |      |
+| 1491 | Average Salary Excluding the Minimum and Maximum Salary | Rust     | O(n) | O(1) | easy       |      |
